@@ -9,6 +9,7 @@ homepage = "https://github.com/pozm/_18446744073709551615"
 repository = "https://github.com/pozm/_18446744073709551615"
 keywords = ["ඞ"]
 license = "WTFPL"
+license-file = "license"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
